@@ -1,0 +1,12 @@
+git+https://github.com/huggingface/transformers@3c0796aaeac722152836ea063d542a4c628a75be
+accelerate
+qwen-vl-utils[decord]==0.0.8
+decord==0.4.0
+av
+ultralytics
+matplotlib
+tqdm
+pillow
+openai
+bert-score
+sentence-transformers
